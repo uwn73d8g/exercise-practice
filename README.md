@@ -1,1 +1,1 @@
-# exercise-practice
+# BaroqueChessAgent
